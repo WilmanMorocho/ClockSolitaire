@@ -25,7 +25,7 @@ BUTTON_WIDTH, BUTTON_HEIGHT = 120, 40
 CARD_OFFSET_H = 20  # Desplazamiento horizontal para el efecto escalerita
 CARD_OFFSET_V = 2   # Desplazamiento vertical para el mazo
 
-# Posiciones ajustadas de las cartas en la mesa (más separadas)
+# Posiciones ajustadas de las cartas en la mesa
 posiciones = [
     (WIDTH // 2 - 350, 80),    # [1]
     (WIDTH // 2 - 150, 80),    # [2]
